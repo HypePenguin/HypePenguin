@@ -4,7 +4,7 @@
 - 📫 How to reach me: gasidori@naver.com
 - 🦭 Pronouns: Be better than me of yesterday
 
-
+<br>
 Learning programming language... 
 <br><br>
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
