@@ -4,7 +4,6 @@
 - 📫 How to reach me: gasidori@naver.com
 - 🦭 Pronouns: Be better than me of yesterday
 
-<br>
 Learning programming language... 
 <br>
 <br>
