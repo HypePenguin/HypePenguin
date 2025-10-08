@@ -13,7 +13,7 @@ Learning programming language...
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
-같이 알고리즘 공부해요. 👨🏻‍💻
+같이 알고리즘 공부해요. 👨🏻‍💻<br/>
 solved.ac 계정: https://solved.ac/profile/hyuntori
 
 <!---
